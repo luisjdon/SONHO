@@ -9,6 +9,17 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 import string
 from datetime import datetime
+from chatbot_gpt import GPTChatbot
+
+def main():
+    print("Iniciando o Chatbot Sonho...")
+    bot = GPTChatbot()  # Instanciando o chatbot
+    bot.chat()  # Iniciando o loop de conversa
+
+if __name__ == "__main__":
+    main()
+
+
 
 app = Flask(__name__)
 
