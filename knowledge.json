@@ -1,0 +1,508 @@
+{
+    "facts": {
+        "calcular": [
+            "1 + 1"
+        ],
+        "aprender": [
+            "seu nome é Sonho",
+            "\"\"\"\n1. Estrutura Básica de uma Frase\n   - Sujeito + Verbo + Complemento.\n   Exemplo:\n     \"O gato dorme na almofada.\"\n     (Sujeito: \"O gato\", Verbo: \"dorme\", Complemento: \"na almofada\".)\n\n2. Tipos de Frases\n   - Declarativas: \"Eu gosto de café.\"\n   - Interrogativas: \"Você gosta de café?\"\n   - Exclamativas: \"Que café delicioso!\"\n   - Imperativas: \"Pegue um café para mim.\"\n\n3. Variação de Estruturas\n   - Evite ensinar frases sempre da mesma forma.\n   Exemplo:\n     - \"O gato está dormindo.\"\n     - \"Ele dorme tranquilamente na almofada.\"\n     - \"A almofada é o lugar favorito do gato para dormir.\"\n\n4. Ensino Progressivo\n   - Comece com frases simples e vá aumentando a complexidade.\n   Exemplo:\n     - \"Eu estou feliz.\"\n     - \"Eu fico muito feliz quando vejo meus amigos.\"\n     - \"Ver meus amigos sempre me deixa animado porque gosto de conversar com eles.\"\n\n5. Adição de Contexto\n   - Faça sua IA entender o contexto e a relação entre frases.\n   Exemplo:\n     - Usuário: \"Estou cansado.\"\n     - IA: \"Talvez um descanso ajude. Você teve um dia corrido?\"\n\n# Implementação na IA:\n# ✅ Criar um banco de frases exemplo.\n# ✅ Ensinar variação e contexto.\n# ✅ Implementar respostas adaptáveis com base no aprendizado."
+        ]
+    },
+    "conversations": [],
+    "last_updated": "2025-04-16 21:53:05.459986",
+    "relationships": {},
+    "vocabulary": {
+        "1": {
+            "topics": [
+                "calcular"
+            ],
+            "count": 2
+        },
+        "nome": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "sonho": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "``": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 18
+        },
+        "''": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 17
+        },
+        "1.": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "estrutura": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "básica": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "frase": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "sujeito": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "verbo": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "complemento": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "exemplo": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 5
+        },
+        "gato": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 4
+        },
+        "dorme": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 3
+        },
+        "almofada": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 4
+        },
+        "2.": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "tipos": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "frases": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 5
+        },
+        "declarativas": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "gosto": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "café": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 4
+        },
+        "interrogativas": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "gosta": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "exclamativas": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "delicioso": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "imperativas": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "pegue": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "mim": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "3.": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "variação": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "estruturas": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "evite": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "ensinar": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "sempre": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "mesma": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "forma": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "dormindo": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "tranquilamente": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "lugar": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "favorito": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "dormir": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "4.": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "ensino": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "progressivo": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "comece": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "simple": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "vá": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "aumentando": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "complexidade": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "feliz": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "fico": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "vejo": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "amigo": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 2
+        },
+        "ver": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "deixa": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "animado": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "porque": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "conversar": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "5.": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "adição": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "contexto": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 3
+        },
+        "faça": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "ia": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 3
+        },
+        "entender": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "relação": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "usuário": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "cansado": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "talvez": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "descanso": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "ajude": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "dia": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "corrido": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "implementação": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "✅": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 3
+        },
+        "criar": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "banco": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "implementar": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "respostas": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "adaptáveis": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "base": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        },
+        "aprendizado": {
+            "topics": [
+                "aprender"
+            ],
+            "count": 1
+        }
+    }
+}
